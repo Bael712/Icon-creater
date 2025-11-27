@@ -17,7 +17,7 @@
 
 ## 使い方（30秒）
 
-1. ブラウザで開く → [https://bael712.github.io/square-cropper/](https://bael712.github.io/square-cropper/)
+1. ブラウザで開く → [https://bael712.github.io/icon_converter.html/](https://bael712.github.io/icon_converter.html/)
 2. 「画像を選択」→好きな画像をドロップ
 3. 枠をドラッグして位置調整
 4. 「PNG保存」→ 完了！
